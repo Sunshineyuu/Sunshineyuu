@@ -13,8 +13,8 @@ We aim to bring more people into the world of Android modding by providing the k
 ✅ **Community Support** – Ask questions, share knowledge, and help others  
 
 ## 📂 Downloads & Resources  
-- 🔗 [Flashing Tools & Utilities](#) *(Coming soon)*  
-- 📜 [Custom ROM Installation Guides](#) *(Coming soon)*  
+- 🔗 [Flashing Tools & Utilities](#)
+- 📜 [Custom ROM Installation Guides](#)  
 - 🛠 [Troubleshooting & Fixes](#) *(Coming soon)*  
 
 ## 🌿Join Our Community  
@@ -26,7 +26,4 @@ Want to help the community grow? Share your guides, tools, and experiences! Open
 
 ## ⚠️ Disclaimer  
 Flashing custom ROMs comes with risks. Always follow instructions carefully, back up your data, and proceed at your own responsibility. We are not liable for any damage to your device.  
-
----  
-
-⭐ **Star this repository** and spread the word to bring more users into the custom ROM world!
+_ _ _ _
